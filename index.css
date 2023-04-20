@@ -1,0 +1,26 @@
+.header{
+    display: block;
+    border: 2px solid blue;
+}
+.img{
+    display: inline;
+}
+.ul{
+    display: inline;
+}
+.home{
+    display: inline;
+}
+.contact
+{
+    display: inline;
+}
+.s{
+    border: green;
+    display: inline;
+}
+.h{
+    border: yellow;
+    display: inline;
+}
+}
